@@ -1,0 +1,96 @@
+{
+  "collected_at": "2026-03-23",
+  "categories": ["국방", "기술", "K-푸드"],
+  "total_trends": 21,
+  "summary": {
+    "국방": {
+      "trend_count": 8,
+      "keywords": ["한미동맹 재편", "K-방산 수출 확대", "드론 전력 개편", "군사 AI"],
+      "top_topics": [
+        {
+          "title": "한미동맹 전략 전환 – 한국군 30일 독자 생존",
+          "relevance": "very_high",
+          "youtube_potential": "high",
+          "description": "한미동맹 73년 만에 근본적 전환. 미군 증원 전 30일 독자 생존 요구. 주한미군 인도태평양 신속대응군으로 재편."
+        },
+        {
+          "title": "NATO 전략 보고서 – 한국 방산의 부상",
+          "relevance": "high",
+          "youtube_potential": "high",
+          "description": "NATO 회원국들의 전략적 동반자로 한국 부상. 드론 등 신흥 기술 대규모 투자."
+        },
+        {
+          "title": "캐나다 잠수함 수주 경쟁",
+          "relevance": "high",
+          "youtube_potential": "medium",
+          "description": "방위사업청장 캐나다 잠수함 수주 가능성 5대5 발언."
+        }
+      ]
+    },
+    "기술": {
+      "trend_count": 6,
+      "keywords": ["AI 팩토리", "HBM4 초격차", "AI 스타트업", "피지컬 AI", "저전력 패키징"],
+      "top_topics": [
+        {
+          "title": "삼성전자 시총 1,000조 돌파 및 AI 초격차 전략",
+          "relevance": "very_high",
+          "youtube_potential": "very_high",
+          "description": "삼성전자 시총 1,000조 원 돌파. HBM4/HBM4E 초격차 선언. 원스톱 솔루션 전략."
+        },
+        {
+          "title": "엔비디아 AI 팩토리 패러다임",
+          "relevance": "very_high",
+          "youtube_potential": "high",
+          "description": "AI 산업 학습→추론 전환. 토큰 생산 공장 개념. 삼성 주요 파트너로 지목."
+        },
+        {
+          "title": "한국 AI 스타트업 투자 열기",
+          "relevance": "high",
+          "youtube_potential": "medium",
+          "description": "업스테이지(470억), 페르소나에이아이(120억) 등 대규모 투자 유치."
+        }
+      ]
+    },
+    "K-푸드": {
+      "trend_count": 7,
+      "keywords": ["글로벌 메인스트림", "북미·유럽 성장", "먹방 투어", "AI 푸드테크", "편리미엄"],
+      "top_topics": [
+        {
+          "title": "K-푸드 글로벌 주류 식문화 전환",
+          "relevance": "very_high",
+          "youtube_potential": "very_high",
+          "description": "영국 Bidfood, 한국 음식을 메인 메뉴로 평가. 북미 +88.7%, 유럽 +46.5% 성장."
+        },
+        {
+          "title": "김밥의 글로벌 폭발 – CAGR +173.9%",
+          "relevance": "very_high",
+          "youtube_potential": "very_high",
+          "description": "북미에서 김밥 연평균 성장률 173.9%. K-치킨, 떡볶이도 급성장."
+        },
+        {
+          "title": "K-콘텐츠와 먹방 투어 시너지",
+          "relevance": "high",
+          "youtube_potential": "high",
+          "description": "방한 외국인 80% 이상 한식 체험이 주요 여행 목적."
+        }
+      ]
+    }
+  },
+  "recommended_script_topics": [
+    {
+      "title": "한미동맹 73년 만의 대전환 – 한국군은 30일을 버틸 수 있는가",
+      "category": "국방",
+      "hook": "미국이 한국에 내린 최후통첩, '30일 독자 생존'. 73년 동맹의 균열인가, 진화인가?"
+    },
+    {
+      "title": "삼성전자 시총 1,000조의 비밀 – AI 반도체 초격차 전략",
+      "category": "기술",
+      "hook": "한국 기업 최초 시총 1,000조. 삼성이 엔비디아와 손잡고 그리는 AI 제국의 청사진."
+    },
+    {
+      "title": "김밥이 세계를 점령하고 있다 – K-푸드 글로벌 메인스트림 시대",
+      "category": "K-푸드",
+      "hook": "북미에서 김밥 성장률 173.9%. 더 이상 '이국적 음식'이 아닌, 세계인의 일상식이 된 한국 음식."
+    }
+  ]
+}
